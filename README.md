@@ -111,3 +111,11 @@ Add the person to the team, and then create.
 Ensure that this box is unchecked, so anyone can create tickets.     
 </p>
 <br />
+
+<p>
+<img src="https://i.imgur.com/16ZYxrz.png" height="100%" width="100%" alt="Disk Sanitization Steps"/>
+</p>
+<p>
+Click 'Add New Agent'.      
+</p>
+<br />
