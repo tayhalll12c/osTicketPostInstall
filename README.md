@@ -119,3 +119,11 @@ Ensure that this box is unchecked, so anyone can create tickets.
 Click 'Add New Agent'.      
 </p>
 <br />
+
+<p>
+<img src="https://i.imgur.com/qE0YRtl.png" height="100%" width="100%" alt="Disk Sanitization Steps"/>
+</p>
+<p>
+Set a name, username, and email (samples are used in this case).       
+</p>
+<br />
