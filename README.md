@@ -87,3 +87,11 @@ Name the department 'System Administrators' and leave the rest of the settings o
 Click 'Add New Team'   
 </p>
 <br />
+
+<p>
+<img src="https://i.imgur.com/4JLd8oY.png" height="100%" width="100%" alt="Disk Sanitization Steps"/>
+</p>
+<p>
+Name the team 'Level II Support'   
+</p>
+<br />
