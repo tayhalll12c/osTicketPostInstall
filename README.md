@@ -41,3 +41,19 @@ Login with the credentials that were created when installing osTicket.
 In the admin panel, under Agents and Roles, click 'Add New Role'  
 </p>
 <br />
+
+<p>
+<img src="https://i.imgur.com/nvnSUrW.png" height="100%" width="100%" alt="Disk Sanitization Steps"/>
+</p>
+<p>
+Name the role "Supreme Admin"  
+</p>
+<br />
+
+<p>
+<img src="https://i.imgur.com/BBolgNL.png" height="100%" width="100%" alt="Disk Sanitization Steps"/>
+</p>
+<p>
+For the purpose of this demonstration, "Supreme Admin" will be granted all permissions.   
+</p>
+<br />
