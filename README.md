@@ -95,3 +95,11 @@ Click 'Add New Team'
 Name the team 'Level II Support'   
 </p>
 <br />
+
+<p>
+<img src="https://i.imgur.com/4G2OFKh.png" height="100%" width="100%" alt="Disk Sanitization Steps"/>
+</p>
+<p>
+Add the person to the team, and then create.    
+</p>
+<br />
