@@ -124,6 +124,6 @@ Click 'Add New Agent'.
 <img src="https://i.imgur.com/qE0YRtl.png" height="100%" width="100%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-Set a name, username, and email (samples are used in this case).       
+Set a name, username, and email (samples are used in this case). Then, click 'Set Password'.       
 </p>
 <br />
