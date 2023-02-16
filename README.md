@@ -63,3 +63,11 @@ Name the role "Supreme Admin"
 For the purpose of this demonstration, "Supreme Admin" will be granted all permissions.   
 </p>
 <br />
+
+<p>
+<img src="https://i.imgur.com/oXo6gug.png" height="100%" width="100%" alt="Disk Sanitization Steps"/>
+</p>
+<p>
+Click 'Add New Department' 
+</p>
+<br />
