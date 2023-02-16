@@ -159,3 +159,19 @@ Set permissions.
 Set team and create agent.          
 </p>
 <br />
+
+<p>
+<img src="https://i.imgur.com/7Oiei1E.png" height="100%" width="100%" alt="Disk Sanitization Steps"/>
+</p>
+<p>
+Repeat the process with another agent.           
+</p>
+<br />
+
+<p>
+<img src="https://i.imgur.com/SFFASJR.png" height="100%" width="100%" alt="Disk Sanitization Steps"/>
+</p>
+<p>
+Select different departments if desired.            
+</p>
+<br />
