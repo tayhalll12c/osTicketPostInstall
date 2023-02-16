@@ -127,3 +127,11 @@ Click 'Add New Agent'.
 Set a name, username, and email (samples are used in this case). Then, click 'Set Password'.       
 </p>
 <br />
+
+<p>
+<img src="https://i.imgur.com/gWgPzz8.png" height="100%" width="100%" alt="Disk Sanitization Steps"/>
+</p>
+<p>
+Leave these boxes unchecked, type in a password, and click 'Set'.        
+</p>
+<br />
