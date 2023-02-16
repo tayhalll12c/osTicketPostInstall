@@ -143,3 +143,11 @@ Leave these boxes unchecked, type in a password, and click 'Set'.
 Set departments.         
 </p>
 <br />
+
+<p>
+<img src="https://i.imgur.com/EboDW6L.png" height="100%" width="100%" alt="Disk Sanitization Steps"/>
+</p>
+<p>
+Set permissions.          
+</p>
+<br />
