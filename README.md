@@ -35,7 +35,7 @@ Login with the credentials that were created when installing osTicket.
 <br />
 
 <p>
-<img src="https://i.imgur.com/q4hJML2.png" height="90%" width="90%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/q4hJML2.png" height="100%" width="100%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
 In the admin panel, under Agents and Roles, click 'Add New Role'  
