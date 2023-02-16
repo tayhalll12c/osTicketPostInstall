@@ -103,3 +103,11 @@ Name the team 'Level II Support'
 Add the person to the team, and then create.    
 </p>
 <br />
+
+<p>
+<img src="https://i.imgur.com/3NgyMph.png" height="100%" width="100%" alt="Disk Sanitization Steps"/>
+</p>
+<p>
+Ensure that this box is unchecked, so anyone can create tickets.     
+</p>
+<br />
