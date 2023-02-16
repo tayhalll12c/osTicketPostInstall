@@ -79,3 +79,11 @@ Click 'Add New Department'
 Name the department 'System Administrators' and leave the rest of the settings on default (create department right away).   
 </p>
 <br />
+
+<p>
+<img src="https://i.imgur.com/Y2RzDko.png" height="100%" width="100%" alt="Disk Sanitization Steps"/>
+</p>
+<p>
+Click 'Add New Team'   
+</p>
+<br />
