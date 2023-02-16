@@ -54,8 +54,10 @@ Name the role "Supreme Admin"
 <img src="https://i.imgur.com/BBolgNL.png" height="100%" width="100%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-</p>
 <img src="https://i.imgur.com/U3txiMh.png" height="100%" width="100%" alt="Disk Sanitization Steps"/>
+</p>
+<p>
+<img src="https://i.imgur.com/tSVeWNm.png" height="100%" width="100%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
 For the purpose of this demonstration, "Supreme Admin" will be granted all permissions.   
