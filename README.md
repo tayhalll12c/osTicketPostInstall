@@ -135,3 +135,11 @@ Set a name, username, and email (samples are used in this case). Then, click 'Se
 Leave these boxes unchecked, type in a password, and click 'Set'.        
 </p>
 <br />
+
+<p>
+<img src="https://i.imgur.com/zQl7QsJ.png" height="100%" width="100%" alt="Disk Sanitization Steps"/>
+</p>
+<p>
+Set departments.         
+</p>
+<br />
