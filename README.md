@@ -151,3 +151,11 @@ Set departments.
 Set permissions.          
 </p>
 <br />
+
+<p>
+<img src="https://i.imgur.com/MEd86UF.png" height="100%" width="100%" alt="Disk Sanitization Steps"/>
+</p>
+<p>
+Set team and create agent.          
+</p>
+<br />
