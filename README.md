@@ -172,6 +172,6 @@ Repeat the process with another agent.
 <img src="https://i.imgur.com/SFFASJR.png" height="100%" width="100%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-Select different departments if desired.            
+Select different departments if desired, and then create.             
 </p>
 <br />
