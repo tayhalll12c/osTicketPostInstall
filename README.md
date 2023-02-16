@@ -71,3 +71,11 @@ For the purpose of this demonstration, "Supreme Admin" will be granted all permi
 Click 'Add New Department' 
 </p>
 <br />
+
+<p>
+<img src="https://i.imgur.com/bybCNhy.png" height="100%" width="100%" alt="Disk Sanitization Steps"/>
+</p>
+<p>
+Name the department 'System Administrators' and leave the rest of the settings on default (create department right away).   
+</p>
+<br />
