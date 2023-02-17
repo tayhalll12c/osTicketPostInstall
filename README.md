@@ -239,3 +239,11 @@ Enter information for a service-level agreement and click 'Add Plan'.
 Repeat the process with a different SLA.                  
 </p>
 <br />
+
+<p>
+<img src="https://i.imgur.com/TesRjgo.png" height="100%" width="100%" alt="Disk Sanitization Steps"/>
+</p>
+<p>
+Repeat the process with a different SLA.                  
+</p>
+<br />
