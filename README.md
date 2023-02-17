@@ -271,3 +271,19 @@ Enter information for a help topic and add it.
 Repeat the process with other help topics.                     
 </p>
 <br />
+
+<p>
+<img src="https://i.imgur.com/c4L76ZW.png" height="100%" width="100%" alt="Disk Sanitization Steps"/>
+</p>
+<p>
+Repeat the process with other help topics.                     
+</p>
+<br />
+
+<p>
+<img src="https://i.imgur.com/Whd4C7A.png" height="100%" width="100%" alt="Disk Sanitization Steps"/>
+</p>
+<p>
+Repeat the process with other help topics.                     
+</p>
+<br />
