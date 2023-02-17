@@ -255,3 +255,11 @@ Repeat the process with a different SLA.
 Click 'Add New Help Topic'.                   
 </p>
 <br />
+
+<p>
+<img src="https://i.imgur.com/Ex27fvT.png" height="100%" width="100%" alt="Disk Sanitization Steps"/>
+</p>
+<p>
+Enter information for a help topic and add it.                    
+</p>
+<br />
