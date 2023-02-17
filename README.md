@@ -201,7 +201,7 @@ Type in user credentials and add.
 <br />
 
 <p>
-<img src="https://i.imgur.com/pzzDgN9.png" height="100%" width="100%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/R2pG2fo.png" height="100%" width="100%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
 Repeat the process with another user.                 
