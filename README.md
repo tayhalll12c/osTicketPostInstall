@@ -191,3 +191,11 @@ Switch to the Agent Panel.
 Click 'Add User'.               
 </p>
 <br />
+
+<p>
+<img src="https://i.imgur.com/pzzDgN9.png" height="100%" width="100%" alt="Disk Sanitization Steps"/>
+</p>
+<p>
+Type in user credentials and add.                
+</p>
+<br />
