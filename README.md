@@ -223,3 +223,11 @@ Return to the Admin Panel.
 Click 'Add New SLA Plan'.                 
 </p>
 <br />
+
+<p>
+<img src="https://i.imgur.com/MDOdkfp.png" height="100%" width="100%" alt="Disk Sanitization Steps"/>
+</p>
+<p>
+Type in the following and click 'Add Plan'.                  
+</p>
+<br />
