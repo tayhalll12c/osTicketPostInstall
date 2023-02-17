@@ -263,3 +263,11 @@ Click 'Add New Help Topic'.
 Enter information for a help topic and add it.                    
 </p>
 <br />
+
+<p>
+<img src="https://i.imgur.com/9LB7444.png" height="100%" width="100%" alt="Disk Sanitization Steps"/>
+</p>
+<p>
+Repeat the process with other help topics.                     
+</p>
+<br />
