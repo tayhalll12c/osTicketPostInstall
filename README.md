@@ -199,3 +199,11 @@ Click 'Add User'.
 Type in user credentials and add.                
 </p>
 <br />
+
+<p>
+<img src="https://i.imgur.com/pzzDgN9.png" height="100%" width="100%" alt="Disk Sanitization Steps"/>
+</p>
+<p>
+Repeat the process with another user.                 
+</p>
+<br />
