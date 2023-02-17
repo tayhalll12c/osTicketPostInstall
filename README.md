@@ -207,3 +207,11 @@ Type in user credentials and add.
 Repeat the process with another user.                 
 </p>
 <br />
+
+<p>
+<img src="https://i.imgur.com/7b9Kd4g.png" height="100%" width="100%" alt="Disk Sanitization Steps"/>
+</p>
+<p>
+Return to the Admin Panel.                 
+</p>
+<br />
