@@ -175,3 +175,11 @@ Repeat the process with another agent.
 Select different departments if desired, and then create.             
 </p>
 <br />
+
+<p>
+<img src="https://i.imgur.com/06OLNIZ.png" height="100%" width="100%" alt="Disk Sanitization Steps"/>
+</p>
+<p>
+Switch to the Agent Panel.              
+</p>
+<br />
