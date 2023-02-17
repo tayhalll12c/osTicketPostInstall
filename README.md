@@ -215,3 +215,11 @@ Repeat the process with another user.
 Return to the Admin Panel.                 
 </p>
 <br />
+
+<p>
+<img src="https://i.imgur.com/4yLenyX.png" height="100%" width="100%" alt="Disk Sanitization Steps"/>
+</p>
+<p>
+Click 'Add New SLA Plan'.                 
+</p>
+<br />
