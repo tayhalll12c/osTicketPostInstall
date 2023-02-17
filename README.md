@@ -183,3 +183,11 @@ Select different departments if desired, and then create.
 Switch to the Agent Panel.              
 </p>
 <br />
+
+<p>
+<img src="https://i.imgur.com/E7smb06.png" height="100%" width="100%" alt="Disk Sanitization Steps"/>
+</p>
+<p>
+Click 'Add User'               
+</p>
+<br />
