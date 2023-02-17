@@ -247,3 +247,11 @@ Repeat the process with a different SLA.
 Repeat the process with a different SLA.                  
 </p>
 <br />
+
+<p>
+<img src="https://i.imgur.com/MQhXriC.png" height="100%" width="100%" alt="Disk Sanitization Steps"/>
+</p>
+<p>
+Click 'Add New Help Topic'.                   
+</p>
+<br />
