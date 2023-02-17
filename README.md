@@ -228,6 +228,6 @@ Click 'Add New SLA Plan'.
 <img src="https://i.imgur.com/MDOdkfp.png" height="100%" width="100%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-Type in the following and click 'Add Plan'.                  
+Enter information for a service-level agreement and click 'Add Plan'.                  
 </p>
 <br />
