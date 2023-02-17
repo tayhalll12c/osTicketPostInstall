@@ -188,6 +188,6 @@ Switch to the Agent Panel.
 <img src="https://i.imgur.com/E7smb06.png" height="100%" width="100%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-Click 'Add User'               
+Click 'Add User'.               
 </p>
 <br />
