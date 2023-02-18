@@ -26,7 +26,7 @@ This demonstration outlines the post-install configuration of the open-source he
 - Configure agents
 - Configure users
 - Configure SLA
--Configure help topics
+- Configure help topics
 
 <h2>Configuration Steps</h2>
 
